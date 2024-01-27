@@ -152,4 +152,8 @@ input {
     .matter{
         margin: 0px 15px;
     }
+    #notFound{
+        width: 88%
+        align-items: center;
+    }
 }
